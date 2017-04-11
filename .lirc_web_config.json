@@ -1,0 +1,25 @@
+{
+  "server" : {
+    "port" : 80,
+    "ssl" : false
+  },
+  "repeaters": {
+  },
+  "macros": {
+  },
+  "commandLabels": {
+    "Gorenje": {
+      "KEY_POWER": "POWER ON/OFF",
+      "KEY_UP": "SPEED +",
+      "KEY_DOWN": "SPEED -",
+      "KEY_YELLOW": "LIGHT ON/OFF",
+      "KEY_REFRESH": "REFRESH",
+      "KEY_TIME": "TIMER"
+    }
+  },
+  "remoteLabels": {
+     "Gorenje": "Gorenje Hud"
+  },
+  "blacklists": {
+  }
+}
